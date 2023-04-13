@@ -22,5 +22,10 @@ namespace pryEstructuraDeDatos
             frmDatos frmDatos = new frmDatos();
             frmDatos.Show();
         }
+
+        private void pilaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
