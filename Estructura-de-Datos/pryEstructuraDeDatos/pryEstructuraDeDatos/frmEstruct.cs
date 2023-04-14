@@ -27,5 +27,11 @@ namespace pryEstructuraDeDatos
         {
 
         }
+
+        private void colaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCola frmCola = new frmCola();
+            frmCola.Show();
+        }
     }
 }
