@@ -1,0 +1,57 @@
+C:\Users\Aiko\Desktop\Tps\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe.config
+C:\Users\Aiko\Desktop\Tps\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe
+C:\Users\Aiko\Desktop\Tps\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.pdb
+C:\Users\Aiko\Desktop\Tps\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\Aiko\Desktop\Tps\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aiko\Desktop\Tps\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmDatos.resources
+C:\Users\Aiko\Desktop\Tps\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmEstruct.resources
+C:\Users\Aiko\Desktop\Tps\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.Properties.Resources.resources
+C:\Users\Aiko\Desktop\Tps\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.GenerateResource.cache
+C:\Users\Aiko\Desktop\Tps\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Aiko\Desktop\Tps\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.exe
+C:\Users\Aiko\Desktop\Tps\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.pdb
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe.config
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.pdb
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmCola.resources
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmDatos.resources
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmEstruct.resources
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmPila.resources
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.Properties.Resources.resources
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.GenerateResource.cache
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.exe
+C:\Users\Aiko\Desktop\Tps\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.pdb
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe.config
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.pdb
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmCola.resources
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmDatos.resources
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmEstruct.resources
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmPila.resources
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.Properties.Resources.resources
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.GenerateResource.cache
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.exe
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.pdb
+C:\Users\Alumnos\Source\Repos\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmListaSimple.resources
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmCola.resources
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmDatos.resources
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmEstruct.resources
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmListaDoble.resources
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmListaSimple.resources
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmPila.resources
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.GenerateResource.cache
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.exe
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.pdb
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe.config
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.pdb
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.Properties.Resources.resources
+C:\Users\Aiko\Desktop\Tps\Nueva carpeta\Estructura-de-Datos\Estructura-de-Datos\pryEstructuraDeDatos\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.CoreCompileInputs.cache
